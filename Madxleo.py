@@ -297,7 +297,7 @@ def pilih_super():
 	print "\n\033[1;97m«-----\x1b[1;93m■To Stop Process Press CTRL+Z■\033[1;97m----»"
 	print "\033[1;93m❥•❥•❥•❥•❥•❥•❥•❥•\033[1;93mMrxLeopard\033[1;93m❥•❥•❥•❥•❥•❥•❥•❥•"
 	jalan(' \033[1;97m ❥•❥•❥•❥•❥•❥•❥•❥•Cloning Start plzzz Wait❥•❥•❥•❥•❥•❥•❥•❥• ')
-	print "\033[1;93m❥•❥•❥•❥•❥•❥•❥•❥•\033[1;97mBlackMafia\033[1;93m❥•❥•❥•❥•❥•❥•❥•❥•"
+	print "\033[1;93m❥•❥•❥•❥•❥•❥•❥•❥•\033[1;97mMadxPapae\033[1;93m❥•❥•❥•❥•❥•❥•❥•❥•"
 	
 			
 	def main(arg):
